@@ -1,0 +1,11 @@
+Skills:
+1.HTTP
+2.Json
+3.XML
+4.Postman
+5.Charles
+6.Fiddler
+7.DevTools
+8.SQL
+9.Python
+10.Terminal
