@@ -1,0 +1,5 @@
+Name: Punco Nadia
+Age : 42
+Pets: 1 (cat:Masia)
+Salary: 1000
+
